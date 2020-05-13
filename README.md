@@ -14,4 +14,4 @@ Clone or download files for use in medical text Natural Language Processing (NLP
 - `vocab.txt`. Generated vocabulary text files for Natural Language Processing (NLP) using the [Systematized Nomenclature of Medicine International (SNMI) data](https://bioportal.bioontology.org/ontologies/SNMI). See how to [Generate your own vocab file](https://github.com/socd06/snmi_vocab/blob/master/notebooks/snmi_vocab.ipynb).
 
 # License
-SHOULD BE GNU 3
+[GNU GENERAL PUBLIC LICENSE VERSION 3](https://github.com/socd06/medical-nlp/blob/master/LICENSE)
